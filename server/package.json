@@ -1,0 +1,27 @@
+{
+  "name": "backend-dev-fundamentals",
+  "version": "1.0.0",
+  "description": "Learning Backend development using Express and Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikderasari/Backend-Dev-Fundamentals.git"
+  },
+  "keywords": [
+    "Node",
+    "ExpressJS"
+  ],
+  "author": "Kartik Derasari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartikderasari/Backend-Dev-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/kartikderasari/Backend-Dev-Fundamentals#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
